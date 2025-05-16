@@ -24,7 +24,7 @@ Knowledge Reinforcement**: Retry option encourages repeated practice and content
 Score System**: Get instant feedback on your performance at the end of each session.
 
 Platform: Android
-Languages: Java / Kotlin *(depending on your implementation)
+Languages:Kotlin 
 
 Components: `TextView`, `Button`, `Timer.
 IDE: Android Studio
