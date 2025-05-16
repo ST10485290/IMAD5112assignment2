@@ -29,4 +29,4 @@ Languages:Kotlin
 Components: `TextView`, `Button`, `Timer.
 IDE: Android Studio
 
-
+https://youtube.com/shorts/aD23NeFuIH4?si=yOHKvVbN97yzBU7C
